@@ -31,6 +31,7 @@ pip install tensorflow-addons==0.19
 	- Git bash in VSCode
 
 1.0. Download the models folder in my Google Drive and put it into the Visio_Facial-Algorithm Folder
+        - https://drive.google.com/drive/folders/1gefJ3wyZ-rH2Qzh0VNVg1hPR6fdk_Ych?usp=drive_link
 
 1.1. INSTALLATION OF CUDA TOOLKIT AND CUDNN
 	- https://developer.nvidia.com/cuda-11.2.0-download-archive
@@ -39,7 +40,6 @@ pip install tensorflow-addons==0.19
 1.2 INSTALLATION OF WGET
 	- Download the latest wget.exe 
 	- Drag the wget.exe in C:\Windows\System32
-
 
 ***** REFERENCE: https://www.youtube.com/watch?v=-DurpWa3cGE&t=1s ***** 
 
