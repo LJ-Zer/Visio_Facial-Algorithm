@@ -1,5 +1,5 @@
 Credits to all the owners of the Python code. This document is only used for educational purposes. This folder will be used in Capstone Design for a Face Recognition application. 
-The document, scripts, and file segregation were written by LJ. He does not own any of the Python codes. 
+The document, scripts, and file segregation were written by the user. He does not own any of the Python codes. 
 If there are any, they are only used to automate the copying of files.
 
 
