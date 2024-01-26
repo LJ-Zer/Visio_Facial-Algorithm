@@ -30,6 +30,8 @@ pip install tensorflow-addons==0.19
 	- Cudnn
 	- Git bash in VSCode
 
+1.0. Download the models folder in my Google Drive and put it into the Visio_Facial-Algorithm Folder
+
 1.1. INSTALLATION OF CUDA TOOLKIT AND CUDNN
 	- https://developer.nvidia.com/cuda-11.2.0-download-archive
 	- https://developer.nvidia.com/rdp/cudnn-archive
